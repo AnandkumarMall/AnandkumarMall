@@ -12,6 +12,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/AnandkumarMall)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:anandkumarmallvishen04@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/AnandkumarMall)
+[![Profile Views](https://komarev.com/ghpvc/?username=AnandkumarMall&color=58A6FF&style=flat&label=Profile+Views)](https://github.com/AnandkumarMall)
 
 </div>
 
@@ -131,36 +132,29 @@
 
 ## Experience
 
-<details>
-<summary><b>Internships</b></summary>
-<br/>
-
-**AI & Machine Learning Internship &mdash; IBM** &nbsp; <sub>Jul 2025 &middot; Virtual</sub>
-
-- Built an intelligent Movie Recommender Chatbot using NLP and recommendation algorithms
-- Worked with real-world datasets for model training, evaluation, and chatbot integration
-- Tools: Python, Scikit-learn, NLP
+> ### ![IBM](https://img.shields.io/badge/IBM-052FAD?style=flat-square&logo=ibm&logoColor=white) &nbsp; AI & Machine Learning Internship &nbsp; `Jul 2025` &nbsp; `Virtual`
+>
+> Built an intelligent Movie Recommender Chatbot using NLP and recommendation algorithms. Worked with real-world datasets across the full pipeline — data preprocessing, model training, evaluation, and chatbot integration.
+>
+> `Python` &nbsp; `Scikit-learn` &nbsp; `NLP` &nbsp; `Machine Learning`
 
 <br/>
 
-**Machine Learning Internship &mdash; SoftPro India** &nbsp; <sub>Jun 2024 &middot; Onsite</sub>
+> ### ![SoftPro](https://img.shields.io/badge/SoftPro_India-1B5E20?style=flat-square&logoColor=white) &nbsp; Machine Learning Internship &nbsp; `Jun 2024` &nbsp; `Onsite`
+>
+> Built, trained, and evaluated predictive models on real-world datasets. Focused on algorithm implementation and performance optimization. Achieved **A+ grade** for overall performance.
+>
+> `Python` &nbsp; `Machine Learning` &nbsp; `Data Preprocessing` &nbsp; `Model Evaluation`
 
-- Built, trained, and evaluated predictive models on real-world datasets
-- Focused on algorithm implementation and performance optimization
-- Achieved **A+ grade** for performance
+---
 
-</details>
+## Certifications
 
-<details>
-<summary><b>Certifications</b></summary>
-<br/>
-
-**Data Science & ML Bootcamp &mdash; Udemy** &nbsp; <sub>Aug 2025</sub>
-
-- Completed end-to-end ML projects covering EDA, feature engineering, and model evaluation
-- Libraries: Pandas, NumPy, Matplotlib, Scikit-learn, Seaborn
-
-</details>
+> ### ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=flat-square&logo=udemy&logoColor=white) &nbsp; Data Science & ML Bootcamp &nbsp; `Aug 2025`
+>
+> Intensive bootcamp covering end-to-end ML projects — exploratory data analysis, feature engineering, model development, and evaluation. Hands-on with the core Python data science stack.
+>
+> `Pandas` &nbsp; `NumPy` &nbsp; `Matplotlib` &nbsp; `Scikit-learn` &nbsp; `Seaborn`
 
 ---
 
@@ -168,21 +162,19 @@
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=AnandkumarMall&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
+<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AnandkumarMall&theme=tokyonight" />
 &nbsp;&nbsp;
 <img height="160" src="https://streak-stats.demolab.com/?user=AnandkumarMall&theme=tokyonight&hide_border=true" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnandkumarMall&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide=jupyter%20notebook,shell" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AnandkumarMall&theme=tokyonight" />
+&nbsp;&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AnandkumarMall&theme=tokyonight" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AnandkumarMall&theme=tokyo-night&hide_border=true&area=true&area_color=1e90ff" width="95%" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=AnandkumarMall&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" width="95%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnandkumarMall&theme=tokyonight" width="95%" />
 
 </div>
 
